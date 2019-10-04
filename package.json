@@ -1,0 +1,19 @@
+{
+  "name": "panda",
+  "description": "just panda",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Selcan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  }
+  "engines": {
+    "node": "12.11.1",
+    "npm": "*"
+  },
+}
