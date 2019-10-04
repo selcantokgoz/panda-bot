@@ -4,7 +4,7 @@
   "description": "Bir tatlı panda",
   "main": "bot.js",
   "scripts": {
-    "test": "node bot.js"
+    "start": "node bot.js"
   },
   "author": "Selcan",
   "license": "ISC"
