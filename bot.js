@@ -21,6 +21,9 @@ client.on('message', msg => {
   if (msg.content.toLowerCase() === 'meow') {
     msg.channel.sendMessage('**MrRrrRrr gel pc pc**');
   }
+    if (msg.content.toLowerCase() === 'Tugay') {
+    msg.channel.sendMessage('**MrRrrRrr gel pc pc**');
+  }
 
 });
 
